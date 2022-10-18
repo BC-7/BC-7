@@ -21,5 +21,5 @@ I'm a noobie in the world of programing, but here I am trying this dangerous wor
 
 ### 🧰 Languages and tools
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" />
+<img align="left" alt="AfterEffects" width="3-px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" />
           
