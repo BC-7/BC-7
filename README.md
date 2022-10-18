@@ -19,7 +19,7 @@ I'm a noobie in the world of programing, but here I am trying this dangerous wor
 
 ---
 
-###🧰 Languages and tools
+### 🧰 Languages and tools
 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" />
           
