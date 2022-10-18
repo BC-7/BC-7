@@ -18,3 +18,8 @@ I'm a noobie in the world of programing, but here I am trying this dangerous wor
 </p>
 
 ---
+
+###🧰 Languages and tools
+
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" />
+          
