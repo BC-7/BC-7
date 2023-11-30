@@ -16,7 +16,10 @@ I'm a noobie in the world of programing, but here I am trying this dangerous wor
   <a href="https://github.com/DenverCoder1/Simple-View-Counter">
     <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/></a>
 </p>
-![mp4](https://github.com/BC-7/BC-7.github.io/assets/109600294/e3f54b3e-d088-409a-86ab-153d47183d35)
+
+<p align="center">
+![mc4](https://github.com/BC-7/BC-7.github.io/assets/109600294/48571e2c-787e-4316-a744-2cff0b418343)
+</p>
 
 ---
 
