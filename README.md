@@ -17,9 +17,7 @@ I'm a noobie in the world of programing, but here I am trying this dangerous wor
     <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/></a>
 </p>
 
-<center>
 ![mc4](https://github.com/BC-7/BC-7.github.io/assets/109600294/48571e2c-787e-4316-a744-2cff0b418343)
-</center>
 
 ---
 
